@@ -7,7 +7,7 @@ CREATE TABLE empleados (
     PRIMARY KEY(id)
 );
 INSERT INTO empleados VALUES 
-    (1, 'Percy', 15000),
-    (2, 'Renzo', 10000),
-    (3, 'Gonzalo', 8000),
-    (4, 'Lisbeth', 2500);
+    (1, 'Percy', 12000),
+    (2, 'Maria', 13000),
+    (3, 'Alonso', 16000),
+    (4, 'Fretzen', 12500);
